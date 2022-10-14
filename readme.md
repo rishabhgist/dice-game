@@ -4,4 +4,4 @@
 * Font Used - https://fonts.googleapis.com/css?family=Indie+Flower|Lobster
 * Preview - https://rishabhgist.com/demo/dice-game
 # 
-<img src="https://rishabhgist.com/demo/dice-game/dice.jpg">
+<img src="https://rishabhgist.com/demo/dice-game/dice.JPG">
